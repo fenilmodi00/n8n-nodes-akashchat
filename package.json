@@ -1,7 +1,7 @@
 {
-  "name": "n8n-node-akashchat",
-  "version": "0.1.0",
-  "description": "n8n community node for AkashChat: API for open-source AI models on Akash Supercloud.",
+  "name": "n8n-nodes-akashchat",
+  "version": "0.1.1",
+  "description": "n8n community nodes for AkashChat: API for open-source AI models on Akash Supercloud.",
   "keywords": [
     "n8n-community-node-package",
     "akash",
@@ -10,14 +10,14 @@
     "llm"
   ],
   "license": "MIT",
-  "homepage": "https://github.com/your-github-username/n8n-node-akashchat#readme",
+  "homepage": "https://github.com/your-github-username/n8n-nodes-akashchat#readme",
   "author": {
     "name": "fenil modi",
     "email": "fenilmodi4820@gmail.com"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/fenilmodi00/n8n-node-akashchat.git"
+    "url": "https://github.com/fenilmodi00/n8n-nodes-akashchat.git"
   },
   "engines": {
     "node": ">=20.15"
