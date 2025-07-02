@@ -1,2 +1,27 @@
+# Ignore everything by default
+*
+
+# But not these files...
+!dist/
+!README.md
+!LICENSE.md
+!package.json
+
+# Never include node_modules or local dev files
+node_modules/
+.git/
+.vscode/
 .DS_Store
-*.tsbuildinfo
+.tmp/
+tmp/
+npm-debug.log*
+package-lock.json
+.gitignore
+.npmignore
+.editorconfig
+.eslintrc.js
+.eslintrc.prepublish.js
+.prettierrc.js
+gulpfile.js
+tsconfig.json
+index.js
