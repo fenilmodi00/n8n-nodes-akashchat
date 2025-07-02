@@ -1,6 +1,6 @@
 {
   "name": "n8n-nodes-akashchat",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "n8n community nodes for AkashChat: API for open-source AI models on Akash Supercloud.",
   "keywords": [
     "n8n-community-node-package",
